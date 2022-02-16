@@ -8,7 +8,7 @@
     <title>Etudiants</title>
     <style>
     .Cont-Table{
-        max-height:400px;
+        max-height:401px;
         overflow-x: auto;
         overflow-y: auto; 
 
