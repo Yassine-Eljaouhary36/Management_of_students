@@ -13,7 +13,7 @@
             background: linear-gradient(to left, #93F9B9,#B5AC49); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
         }
         #content{   
-            box-shadow: 0px 1px 20px 20px rgba(0,0,0,0.5), 0 10px 10px rgba(0,0,0,0.5);
+            box-shadow: 0px 1px 21px 20px rgba(0,0,0,0.5), 0 10px 10px rgba(0,0,0,0.5);
             animation: mymove 1s cubic-bezier(.25,.3,.7,1);  
             height: 400px;
         }
